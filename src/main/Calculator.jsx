@@ -2,13 +2,11 @@ import React, { Component } from "react";
 import "./Calculator.css";
 
 export default class Calculator extends Component {
-    render() {
-        return (
-            <div className="calculator">
-
-            </div>
-        )
-    }
-} 
-
-
+  render() {
+    return (
+      <div className="calculator">
+        <h1>Hello World!</h1>
+      </div>
+    );
+  }
+}
