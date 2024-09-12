@@ -8,6 +8,10 @@ export default class Calculator extends Component {
       <div className="calculator">
         <h1>Hello World!</h1>
         <Button />
+        <Button />
+        <Button />
+        <Button />
+        <Button />
       </div>
     );
   }
