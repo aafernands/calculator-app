@@ -6,7 +6,7 @@ export default class Calculator extends Component {
   render() {
     return (
       <div className="calculator">
-        <h1>Hello World!</h1>
+        <h1>Calculator</h1>
         <Button />
         <Button />
         <Button />
