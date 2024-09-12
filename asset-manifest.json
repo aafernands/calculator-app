@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/calculator-app/static/css/main.c50871bd.css",
-    "main.js": "/calculator-app/static/js/main.23e8567c.js",
+    "main.css": "/calculator-app/static/css/main.e310b2f2.css",
+    "main.js": "/calculator-app/static/js/main.0a9e02d0.js",
     "static/js/453.92889dae.chunk.js": "/calculator-app/static/js/453.92889dae.chunk.js",
     "static/media/RobotoMono-Thin.ttf": "/calculator-app/static/media/RobotoMono-Thin.b54395e68207fbc88b36.ttf",
     "index.html": "/calculator-app/index.html",
-    "main.c50871bd.css.map": "/calculator-app/static/css/main.c50871bd.css.map",
-    "main.23e8567c.js.map": "/calculator-app/static/js/main.23e8567c.js.map",
+    "main.e310b2f2.css.map": "/calculator-app/static/css/main.e310b2f2.css.map",
+    "main.0a9e02d0.js.map": "/calculator-app/static/js/main.0a9e02d0.js.map",
     "453.92889dae.chunk.js.map": "/calculator-app/static/js/453.92889dae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c50871bd.css",
-    "static/js/main.23e8567c.js"
+    "static/css/main.e310b2f2.css",
+    "static/js/main.0a9e02d0.js"
   ]
 }
