@@ -10,6 +10,7 @@
     border-right: var(--border-button);
     border-bottom: var(--border-button);
     outline: none;
+    cursor: pointer;
 }
 
 .button:active {
@@ -26,9 +27,9 @@
 
 .button.operation {
     background-color: #fa8231;
-    color: #FFF
+    color: #FFF;
 }
 
 .button.operation:active {
-    grid-column: #fa8231cc;
+    background-color: #e07b2d; /* Darker shade of orange when pressed */
 }
