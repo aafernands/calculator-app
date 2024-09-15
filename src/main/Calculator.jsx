@@ -79,6 +79,7 @@ export default class Calculator extends Component {
 
   render() {
     return (
+      
       <div className="calculator">
         <Display value={this.state.displayValue} />
         <Button label="AC" onClick={this.clearMemory} double />
